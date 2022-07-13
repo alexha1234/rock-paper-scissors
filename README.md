@@ -1,5 +1,5 @@
 # rock-paper-scissors
-+ Steps
+Steps
 
 Clone this from Github to your desktop
 
