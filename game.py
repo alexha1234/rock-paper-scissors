@@ -1,7 +1,6 @@
 # this is the "game.py" file...
 
 name = input("Hello Player One. What is your name?")
-nl = '\n'
 text = f"Hello {name}. Ready? Rock, paper, scissors, shoot!"
 print(text)
 
