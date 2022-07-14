@@ -3,9 +3,9 @@ Steps
 
 Clone this from Github to your desktop
 
-Set wd to Desktop by typing in "~/Desktop/rock-paper-scissors"
+Open GitBash
 
-Open Gitbash or similar
+Set wd to Desktop by typing in "~/Desktop/rock-paper-scissors"
 
 Create and activate a new project-specific Anaconda virtual environment by typing:
 
