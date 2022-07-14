@@ -32,4 +32,4 @@ elif user_action == "scissors":
 else:
     print ("That's not a valid play. Please check your spelling")
 
-print("Thank you for playing")
+print("Thank you for playing. Please play again!")
